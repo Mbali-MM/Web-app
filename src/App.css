@@ -1,0 +1,123 @@
+.logo {
+     font-weight: bold;}
+
+nav {
+    display:flex;
+    justify-content: space-between;}
+
+.container1{
+    display:block;
+    display: flex;
+    margin-right: 0px;
+    justify-content: right;}
+
+.container2{
+    display: inline-flex;
+    float:right; 
+    justify-content: left;}
+
+.button {
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;;
+    }
+.button1 {
+        background-color:white;
+        border: solid-black;
+        color:black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 16px;}
+
+
+.Section1 h1 { 
+    text-align: center; font-family:'Mona Sans', 'Helvetica Neue', 'Helvetica','Arial','sans-serif';
+    font-size: 50px;
+    
+    }
+
+.Section1 p{ text-align: center; font-size: 25px;}
+.Section2 {text-align: center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+.Section3{
+    display:flex;
+    justify-content: space-between}
+
+
+
+
+h3 { text-align: left; }
+
+.row{ display: flex; 
+    margin: 10px;
+    padding: 20px;
+    font-size:30px;}
+
+.column1 {
+    float: left;
+    width: 25%; background-color: rgb(78, 142, 78); border-radius: 50px;
+    background: #5bad78;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    padding-right: 20px;  
+    margin: 10px; }
+
+.one { text-align: left; font-size: small;} 
+
+.column2{ float: left;
+    width: 25%; background-color: rgb(209, 222, 209); border-radius: 50px;
+    background: #20231c;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    color:aliceblue;
+    margin: 10px;}  
+.two {
+    text-align: left; font-size: small;margin-bottom:  20px; 
+    }
+
+.column3{
+    float: left;
+    width: 25%; background-color: green; border-radius: 50px;
+    background: #946c9c;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    }
+
+.column4{
+    float: left;
+    width: 25%; background-color: green; border-radius: 50px;
+    background: #c3ca74;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    }
+    .column1 hr{opacity: 0.3;}
+    .column2 hr{opacity: 0.3;}
+    .column3 hr{opacity: 0.3;}
+
+    .footer  p { text-align: left;}
+    
+    .btn {
+        background-color:yellowgreen;
+        border: none;
+        color: white;
+        padding: 12px 16px;
+        font-size: 16px;
+        cursor: pointer;
+      }
