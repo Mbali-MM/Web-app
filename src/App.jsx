@@ -58,7 +58,7 @@ export default function App() {
 
 
             <div class="column3">
-              <p class =" one">Focussed</p>
+              <p class =" one">FOCUSSED</p>
               <h3>Focussed</h3>
               <p class="two">Be focussed Life Planning.however, can<br/> serve as a roadmap or guide</p>
               <hr/>
@@ -68,7 +68,7 @@ export default function App() {
 
 
             <div class="column4">
-              <p class =" one">Fixed Income</p>
+              <p class =" one">FIXED INCOME</p>
               <h3>Money Momentum</h3>
               <p class="two">Get muiltiple benefits and lumpsum<br/> option & Gauranteed Returns</p>
               <hr/>
